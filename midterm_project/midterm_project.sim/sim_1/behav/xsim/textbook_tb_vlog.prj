@@ -1,0 +1,24 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../midterm_project.srcs/sources_1/new/adder.v" \
+"../../../../midterm_project.srcs/sources_1/new/alu.v" \
+"../../../../midterm_project.srcs/sources_1/new/alu_decoder.v" \
+"../../../../midterm_project.srcs/sources_1/new/cont.v" \
+"../../../../midterm_project.srcs/sources_1/new/data_mem.v" \
+"../../../../midterm_project.srcs/sources_1/new/datapath.v" \
+"../../../../midterm_project.srcs/sources_1/new/flop_r.v" \
+"../../../../midterm_project.srcs/sources_1/new/instr_mem.v" \
+"../../../../midterm_project.srcs/sources_1/new/main.v" \
+"../../../../midterm_project.srcs/sources_1/new/main_decoder.v" \
+"../../../../midterm_project.srcs/sources_1/new/mips_inst.v" \
+"../../../../midterm_project.srcs/sources_1/new/mux_2.v" \
+"../../../../midterm_project.srcs/sources_1/new/reg_file.v" \
+"../../../../midterm_project.srcs/sources_1/new/sign_ext.v" \
+"../../../../midterm_project.srcs/sources_1/new/sl_2.v" \
+"../../../../midterm_project.srcs/sim_1/new/textbook_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

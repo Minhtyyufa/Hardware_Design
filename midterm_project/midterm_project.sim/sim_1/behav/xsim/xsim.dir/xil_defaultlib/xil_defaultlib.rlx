@@ -1,0 +1,21 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sim_1/new/textbook_tb.v,1573672528,verilog,,,,textbook_tb,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/adder.v,1572972895,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/alu.v,,adder,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/alu.v,1573626380,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/alu_decoder.v,,alu,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/alu_decoder.v,1573621962,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/cont.v,,alu_decoder,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/cont.v,1573489247,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/data_mem.v,,cont,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/data_mem.v,1573575490,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/datapath.v,,data_mem,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/datapath.v,1573679378,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/flop_r.v,,datapath,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/flop_r.v,1573675142,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/instr_mem.v,,flop_r,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/instr_mem.v,1573575882,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/main.v,,instr_mem,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/main.v,1573675619,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/main_decoder.v,,main,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/main_decoder.v,1572889741,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/mips_inst.v,,main_decoder,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/mips_inst.v,1573494707,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/mux_2.v,,mips_inst,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/mux_2.v,1572971517,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/reg_file.v,,mux_2,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/reg_file.v,1572971524,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/sign_ext.v,,reg_file,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/sign_ext.v,1572971521,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/sl_2.v,,sign_ext,,,,,,,,
+/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sources_1/new/sl_2.v,1572971253,verilog,,/afs/ee.cooper.edu/user/n/nguyen8/midterm_project/midterm_project.srcs/sim_1/new/textbook_tb.v,,sl_2,,,,,,,,
